@@ -1,5 +1,5 @@
 /**
- * Author: Jagdeep Singh, GUrkirat Singh
+ * Author: Jagdeep Singh
  * Date: JUne 9 2023
  * File: This file implements a simple shell with few built in commands
  */
